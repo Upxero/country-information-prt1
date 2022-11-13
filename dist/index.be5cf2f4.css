@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Poor+Story&display=swap');
-
+@import "https://fonts.googleapis.com/css2?family=Merriweather&family=Poor+Story&display=swap";
 body {
     display: flex;
     flex-direction: column;
@@ -11,6 +10,7 @@ header {
     align-items: center;
     flex-direction: column;
 }
+
 header h1 {
     font-family: 'Poor Story', cursive;
     font-size: 50px;
@@ -54,18 +54,24 @@ ul p {
 #africa {
     color: blue;
 }
+
 #americas {
     color: green;
 }
+
 #europe {
     color: yellow;
 }
+
 #asia {
     color: red;
 }
+
 #oceania {
     color: purple;
 }
+
 #unknown {
     color: black;
 }
+/*# sourceMappingURL=index.be5cf2f4.css.map */
